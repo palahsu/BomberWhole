@@ -33,7 +33,10 @@ Presenting BomberWhole to Unlimited Messages Any Social Media!
 
 💣Bombing Complete!!
 
-
+Supported Devices:
+- Linux
+- Windows
+- Mac
 
 For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
 
