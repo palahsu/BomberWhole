@@ -1,3 +1,8 @@
+# Made by @palahsu
+
+# Join Telegram Group for help: http://t.me/cyberclans
+# Don't Copy Without Permission! Take Owner Permission!
+
 from setuptools import setup, find_packages
 
 with open("README.md", "r") as fh:
