@@ -6,7 +6,7 @@ Presenting BomberWhole to Unlimited Messages Any Social Media!
 
 ✔️Python 3.x
 ✔️Chrome Browser
-       or
+       and
 ✔️ChromeWebDriver
 
 ✔️pip install selenium
