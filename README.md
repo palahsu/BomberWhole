@@ -17,6 +17,8 @@ Presenting BomberWhole to Unlimited Messages Any Social Media!
 
 ## How to Run Script
 
+You Need Windows or Linux or Mac.
+
 `python bomberwhole.py / python3 bomberwhole.py`
 
 ✔️Press Enter
