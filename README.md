@@ -15,7 +15,7 @@ Presenting BomberWhole to Unlimited Messages Any Social Media!
 
 ✔️pip install -r requirements.txt
 
-## How to Run Script
+## How to Run Script:
 
 Note: You Need Windows or Linux or Mac.
 
