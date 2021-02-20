@@ -17,9 +17,11 @@ Presenting BomberWhole to Unlimited Mesaages Any Social Media!
 
 ## How to Run Script
 
-`python whatsbomber.py / python3 whatsbomber.py`
+`python bomberwhole.py / python3 bomberwhole.py`
 
 ✔️Press Enter
+
+✔️Choose Which Media You Want:
 
 `Enter target full name/number`
 
