@@ -33,7 +33,7 @@ Presenting BomberWhole to Unlimited Messages Any Social Media!
 
 💣Bombing Complete!!
 
-Supported Devices:
+## Supported Devices:
 - Linux
 - Windows
 - Mac
