@@ -27,15 +27,13 @@ Presenting BomberWhole to Unlimited Messages Any Social Media!
 
 ✔️Press Enter
 
-✔️Scan QRCode
-
-✔️On Android: in the Chats screen > Menu > WhatsApp Web.
-✔️On iPhone: go to Settings > WhatsApp Web.
-✔️On Windows Phone: go to Menu > WhatsApp Web.
+✔️Scan QRCode ✔️On Android: in the Chats screen > Menu > WhatsApp Web. Same as Telegram and others.
 
 ✔️Press Enter
 
 💣Bombing Complete!!
+
+
 
 For any kind of help, support, payment, suggestion and request ask me on Gmail / Telegram:
 
