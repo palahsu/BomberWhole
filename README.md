@@ -33,7 +33,7 @@ Note: You Need Windows or Linux or Mac.
 
 ✔️Press Enter
 
-💣Bombing Complete!!
+💣Bombing Complete!! 
 
 ## Supported Devices:
 - Linux
