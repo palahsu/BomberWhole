@@ -40,6 +40,8 @@ You Need Windows or Linux or Mac. Use Fake Accounts!
 - Linux
 - Windows
 - Mac
+- 
+Release Version (EXE) Coming Soon! You Can Run it on Terminal or Compiler.
 
 For any kind of help, support, payment, donate, suggestion and request ask me on Gmail / Telegram:
 
