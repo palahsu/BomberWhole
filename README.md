@@ -29,7 +29,7 @@ Note: You Need Windows or Linux or Mac.
 
 ✔️Press Enter
 
-✔️Scan QRCode ✔️On Android: in the Chats screen > Menu > WhatsApp Web. Same as Telegram and others.
+✔️For Scan QRCode ✔️On Android: in the Chats screen > Menu > WhatsApp Web. Same as Telegram and others.
 
 ✔️Press Enter
 
