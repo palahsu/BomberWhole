@@ -27,7 +27,7 @@ Presenting BomberWhole to Unlimited Messages Any Social Media! Message Bomber �
 
 ✔️Press Enter
 
-✔️For Scan QRCode ✔️On Android: in the Chats screen > Menu > WhatsApp Web. Same as Telegram and others. 
+✔️For Scan QRCode ✔️On Android: in the Chats screen > Menu > WhatsApp Web. Same as Telegram and messenger others. 
 
 ✔️Press Enter
 
