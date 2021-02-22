@@ -1,6 +1,6 @@
 # BomberWhole
 
-Presenting BomberWhole to Unlimited Messages Any Social Media! Message Bomber 💣 It's automated messaging tool sending unlimited message. Implemented in Python using the Selenium module.
+Presenting BomberWhole to Unlimited Messages Any Social Media! Message Bomber 💣 It's automated messaging tool sending unlimited message. SMS Bomber, Implemented in Python using the Selenium module.
 
 ## Requirements
 
