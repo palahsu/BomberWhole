@@ -39,7 +39,7 @@ Presenting BomberWhole to Unlimited Messages Any Social Media! Message Bomber ðŸ
 - Mac
 
 ## Note:
-You Need Windows or Linux or Mac. Use Fake Accounts!
+You Need Windows or Linux or Mac. Use Fake Account!
 Release Version (EXE) Coming Soon! You Can Run it on Terminal or Compiler.
 
 For any kind of help, support, payment, donate, suggestion and request ask me on Gmail / Telegram:
